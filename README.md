@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rushank-Inamdar-27
 - 👀 I’m interested in Business Management, Finance & Investment Banking, Economics, Marketing, Quantum Physics, Psychology, Business Analysis, Business Strategy, Entrepreneurship,etc.
-- 🌱 I’m currently learning Data Science & Business Analytics
-- 💞️ I’m looking to collaborate on Beginners to Intermediate Industry relevant projects & ideas that can help me & others like me to become better as Data scientist, Business Analyst,Data Engineer,Data Genralist or just become overall better at whatever role you're trying to work towards
+- 🌱 I’m currently looking for great oppurtuinities to work and colloborate in roles of Business Analysis, Data Analysis and overall business related analytics,
+- 💞️ I’m looking to collaborate on Beginners to Intermediate Industry relevant projects & ideas that can help me & others like me to become better as Data scientist, Business Analyst,Data Engineer,Data Generalist or just become overall better at whatever role you're trying to work towards
 - 📫 How to reach me, You can reach me here or connect with me on my Linkedin Profile: https://www.linkedin.com/in/rushank-inamdar-787723178/
 
 <!---
